@@ -1,12 +1,17 @@
 Hi baby how are you have a wonderful day baby
-HEAD
-welcome to Git
-======
-dev
+Welcome to GIT
 hi
 hello
 how
 are 
 you
 today
-I need job
+we 
+created 
+branch 
+we 
+know 
+we 
+are 
+all 
+happy
