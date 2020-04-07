@@ -4,3 +4,6 @@ have
 a
 nice 
 day
+have
+a 
+good day
