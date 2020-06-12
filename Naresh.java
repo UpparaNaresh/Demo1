@@ -1,4 +1,4 @@
-import java.io.util.*;
+import java.util.*;
 class Naresh
 {
 public static void main(String args[])
